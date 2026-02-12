@@ -6,7 +6,7 @@ let mailingStats = { sent: 0, failed: 0 };
 let CONFIG = {
   vkToken: '',
   groupId: '',
-  confirmation: '9eca19a0',
+  confirmation: 'c327af64',
   mode: 'normal',
   userToken: ''
 };
