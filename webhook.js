@@ -7,7 +7,7 @@ let mailingStats = { sent: 0, failed: 0 };
 let CONFIG = {
   vkToken: '',
   groupId: '',
-  confirmation: '9eca19a0',
+  confirmation: '0243a8d1',
   mode: 'normal',
   userToken: '' // опционально: токен пользователя для обхода ограничений
 };
